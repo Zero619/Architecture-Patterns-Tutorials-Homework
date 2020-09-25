@@ -1,4 +1,4 @@
-package com.alyndroid.architecturepatternstutorialshomework;
+package com.alyndroid.architecturepatternstutorialshomework.data;
 
 public class DataBase {
     public NumberModel getNumbers(){
